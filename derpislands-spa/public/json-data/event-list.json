@@ -1,0 +1,11 @@
+[
+    {
+        "id":1,
+        "name": "What if I give an event a long title. Somthing like darks wild and crazy d&d night.",
+        "start": "2020-09-30T00:00:00-05:00",
+        "end": "2020-10-07T00:00:00-05:00",
+        "description": "Dark will be hosting the continuation of the \"One shot\" that we started 256 sessions ago.",
+        "game": "D&D",
+        "location": "dunk-n-derpers <b>discord</b> channel"
+    }
+]

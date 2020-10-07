@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "author": "Twillen",
+        "title":"New Site Live",
+        "date": "6 OCT 2020 21:00:00 CDT",
+        "text": "<p>Well after many years, I’ve finally redone the website.</p><p>The first version of the website was designed to integrate with the Minecraft server and help us admin our users. Back in the day we were able to control the experience based on if and how much a user had donated to the server hosting. As time passed, that practice was found abone, and we chose to stop giving perks to those that had donated. At this point the need for the site to server integration wasn’t needed anymore.</p><p>Inadition the site was built on top of the forum software, and over time the Minecraft theme we used wasn’t updated to work with the updated version of the forum software. And over time my integrations were also breaking, and keeping the site working with the forum software was becoming tidus for me.</p><p>Also the final nail in the coffin for the old site was the amount of spam accounts that were being created and generating spam posts. The anti spam measures built into the forum software wasn’t enough for us, and for a course of weeks we tried to battle the spam, but in the end we had to turn off the ability to create new accounts.</p><p>For now the website will have little to no user generated content. I still have a list of things I want to enable and expand on the website, so look forward to more updates over time.</p>"
+    }
+]
